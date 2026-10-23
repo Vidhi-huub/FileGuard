@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.backup
+app.py.backup
+
+# Operating System & IDE artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
